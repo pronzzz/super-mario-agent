@@ -17,9 +17,6 @@ echo.
 echo Next steps:
 echo 1. Create a new repository on GitHub (don't initialize with README)
 echo 2. Run these commands (replace YOUR_USERNAME and YOUR_REPO_NAME):
-echo    git remote add origin https://github.com/pronzzz/super-mario-agent.git
-echo    git branch -M main
-echo    git push -u origin main
-echo.
-pause
-
+git remote add origin https://github.com/pronzzz/super-mario-agent.git
+git branch -M main
+git push -u origin main
